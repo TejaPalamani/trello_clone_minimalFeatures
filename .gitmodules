@@ -1,0 +1,3 @@
+[submodule "trello_clone"]
+	path = trello_clone
+	url = https://github.com/TejaPalamani/trello-frontend.git
